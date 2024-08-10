@@ -42,23 +42,17 @@ ADD WORKOUT
 
 ### Run Locally
 
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/shantanupawarcode07/Health-Challenge-Tracker
-   cd Health-Challenge-Tracker
-   ```
-
-2. Install dependencies
+1. Install dependencies
 
 ```bash
    npm install
 ```
 
-3. Run the project
+2. Run the project
 
 ```bash
    npm start
 ```
 
-4. You can access the project at http://localhost:4200
+3. You can access the project at http://localhost:4200
